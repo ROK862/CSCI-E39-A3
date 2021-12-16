@@ -22,7 +22,7 @@ function AddTimerView() {
             ))}
           </div>
           <div className="workout-action-wrapper">
-            <AnchorButton to="/assignment-3-ROK862/" name={"Back to Queue."} size="sm" className="Action" onClick={()=>{}} />
+            <AnchorButton to="/CSCI-E39-A3/" name={"Back to Queue."} size="sm" className="Action" onClick={()=>{}} />
           </div>
         </Container>
         <Container size="xl" height={300}>

@@ -26,24 +26,24 @@ const App = () => {
             </h1>
             <ul>
               <li>
-                <Link to="/assignment-3-ROK862/">Queue</Link>
+                <Link to="/CSCI-E39-A3/">Queue</Link>
               </li>
               <li>
-                <Link to="/assignment-3-ROK862/add">Configure Queue</Link>
+                <Link to="/CSCI-E39-A3/add">Configure Queue</Link>
               </li>
               <li>
-                <Link to="/assignment-3-ROK862/docs">Documentation</Link>
+                <Link to="/CSCI-E39-A3/docs">Documentation</Link>
               </li>
             </ul>
           </nav>
           <Switch>
-            <Route exact path="/assignment-3-ROK862/">
+            <Route exact path="/CSCI-E39-A3/">
               <DashboardView />
             </Route>
-            <Route exact path="/assignment-3-ROK862/docs">
+            <Route exact path="/CSCI-E39-A3/docs">
               <DocumentationView />
             </Route>
-            <Route exact path="/assignment-3-ROK862/add">
+            <Route exact path="/CSCI-E39-A3/add">
               <AddTimerView />
             </Route>
           </Switch>

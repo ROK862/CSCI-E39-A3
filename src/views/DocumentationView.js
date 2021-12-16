@@ -58,7 +58,7 @@ const Documentation = () => {
           as <strong>Props Drilling, or State Hoisting</strong>, most components
           access certain "GLOBAL STATE" values with context directly from the{" "}
           <strong>
-            <a href="https://github.com/prof-tejera/assignment-3-ROK862/blob/main/src/context/AppProvider.js">
+            <a href="https://github.com/prof-tejera/CSCI-E39-A3/blob/main/src/context/AppProvider.js">
               AppProvider
             </a>
           </strong>

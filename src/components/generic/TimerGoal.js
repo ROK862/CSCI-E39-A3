@@ -8,7 +8,7 @@ const TimerGoal = () => {
   return (
     <>
       <div className="Timer-Goal-Wrapper">
-        <img alt="timer-goal" src="https://raw.githubusercontent.com/prof-tejera/assignment-3-ROK862/main/src/images/goal-reached-animation.gif" />
+        <img alt="timer-goal" src="https://raw.githubusercontent.com/prof-tejera/CSCI-E39-A3/main/src/images/goal-reached-animation.gif" />
       </div>
       <AnchorButton name="Reset Timer" onClick={()=>setTimerStatus("active")} />
     </>

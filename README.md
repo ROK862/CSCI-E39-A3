@@ -69,4 +69,4 @@ For other ways to deploy see https://github.com/prof-tejera/react-deployment-cod
 - Add full test coverage using Cypress.io. This will require that you get your tests running locally and then add a new Github action that will run the tests every time you commit to GitHub. Note that the Cypress setup is not part of this project and must be configured by you (max 8 points)
 
 ## Deployment Notes:
-- URL: <a href="https://prof-tejera.github.io/assignment-3-ROK862/">Project Deployed on Github</a>
+- URL: <a href="https://rok862.github.io/CSCI-E39-A3/">Project Deployed on Github</a>

@@ -17,7 +17,7 @@ import {
 
 // Server which houses application files.
 const server =
-  "https://raw.githubusercontent.com/prof-tejera/assignment-3-ROK862/";
+  "https://raw.githubusercontent.com/prof-tejera/CSCI-E39-A3/";
 
 // Application render keys for each render state.
 export const APP_RENDER_KEYS = {

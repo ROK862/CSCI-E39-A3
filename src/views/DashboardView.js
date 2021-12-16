@@ -41,7 +41,7 @@ function DashboardView() {
             })}
           </div>
           <div className="timer-queue-actions-xl">
-          <AnchorButton to="/assignment-3-ROK862/add" name={"+"} size="sm" radious="cl" onClick={()=>{}} />
+          <AnchorButton to="/CSCI-E39-A3/add" name={"+"} size="sm" radious="cl" onClick={()=>{}} />
           <AnchorButton icon={APP_ICONS.PLAY} size="sm" radious="cl" onClick={()=>{onInitializeTimerQueue()}} />
           </div>
           </>}
