@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CSCI-E39-A3/static/css/main.a51f77c9.chunk.css",
+    "main.js": "/CSCI-E39-A3/static/js/main.9d46e5aa.chunk.js",
+    "main.js.map": "/CSCI-E39-A3/static/js/main.9d46e5aa.chunk.js.map",
+    "runtime-main.js": "/CSCI-E39-A3/static/js/runtime-main.3b12076e.js",
+    "runtime-main.js.map": "/CSCI-E39-A3/static/js/runtime-main.3b12076e.js.map",
+    "static/js/2.3672c3c8.chunk.js": "/CSCI-E39-A3/static/js/2.3672c3c8.chunk.js",
+    "static/js/2.3672c3c8.chunk.js.map": "/CSCI-E39-A3/static/js/2.3672c3c8.chunk.js.map",
+    "index.html": "/CSCI-E39-A3/index.html",
+    "static/css/main.a51f77c9.chunk.css.map": "/CSCI-E39-A3/static/css/main.a51f77c9.chunk.css.map",
+    "static/js/2.3672c3c8.chunk.js.LICENSE.txt": "/CSCI-E39-A3/static/js/2.3672c3c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b12076e.js",
+    "static/js/2.3672c3c8.chunk.js",
+    "static/css/main.a51f77c9.chunk.css",
+    "static/js/main.9d46e5aa.chunk.js"
+  ]
+}
