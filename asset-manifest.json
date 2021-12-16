@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/CSCI-E39-A3/static/css/main.04913ab4.chunk.css",
-    "main.js": "/CSCI-E39-A3/static/js/main.007b8ebf.chunk.js",
-    "main.js.map": "/CSCI-E39-A3/static/js/main.007b8ebf.chunk.js.map",
-    "runtime-main.js": "/CSCI-E39-A3/static/js/runtime-main.3b12076e.js",
-    "runtime-main.js.map": "/CSCI-E39-A3/static/js/runtime-main.3b12076e.js.map",
-    "static/js/2.3672c3c8.chunk.js": "/CSCI-E39-A3/static/js/2.3672c3c8.chunk.js",
-    "static/js/2.3672c3c8.chunk.js.map": "/CSCI-E39-A3/static/js/2.3672c3c8.chunk.js.map",
-    "index.html": "/CSCI-E39-A3/index.html",
-    "static/css/main.04913ab4.chunk.css.map": "/CSCI-E39-A3/static/css/main.04913ab4.chunk.css.map",
-    "static/js/2.3672c3c8.chunk.js.LICENSE.txt": "/CSCI-E39-A3/static/js/2.3672c3c8.chunk.js.LICENSE.txt"
+    "main.css": "/ROK862/CSCI-E39-A3.git/static/css/main.04913ab4.chunk.css",
+    "main.js": "/ROK862/CSCI-E39-A3.git/static/js/main.007b8ebf.chunk.js",
+    "main.js.map": "/ROK862/CSCI-E39-A3.git/static/js/main.007b8ebf.chunk.js.map",
+    "runtime-main.js": "/ROK862/CSCI-E39-A3.git/static/js/runtime-main.97a1d6df.js",
+    "runtime-main.js.map": "/ROK862/CSCI-E39-A3.git/static/js/runtime-main.97a1d6df.js.map",
+    "static/js/2.42c9d659.chunk.js": "/ROK862/CSCI-E39-A3.git/static/js/2.42c9d659.chunk.js",
+    "static/js/2.42c9d659.chunk.js.map": "/ROK862/CSCI-E39-A3.git/static/js/2.42c9d659.chunk.js.map",
+    "index.html": "/ROK862/CSCI-E39-A3.git/index.html",
+    "static/css/main.04913ab4.chunk.css.map": "/ROK862/CSCI-E39-A3.git/static/css/main.04913ab4.chunk.css.map",
+    "static/js/2.42c9d659.chunk.js.LICENSE.txt": "/ROK862/CSCI-E39-A3.git/static/js/2.42c9d659.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b12076e.js",
-    "static/js/2.3672c3c8.chunk.js",
+    "static/js/runtime-main.97a1d6df.js",
+    "static/js/2.42c9d659.chunk.js",
     "static/css/main.04913ab4.chunk.css",
     "static/js/main.007b8ebf.chunk.js"
   ]
