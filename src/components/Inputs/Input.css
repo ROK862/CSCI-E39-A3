@@ -1,0 +1,30 @@
+.default-gen-input {
+  text-align: center;
+  padding: 10px;
+  width: 70%;
+  margin: 5px auto;
+  display: block;
+  border: 1px solid #dddddd;
+  border-radius: 10px;
+}
+
+.section::-webkit-scrollbar-track {
+  background-color: darkgrey;
+}
+
+.digital-display-wrapper label {
+  font-size: 12px;
+  padding-right: 15px;
+}
+
+.digital-display-wrapper label {
+    font-size: 12px;
+    padding-right: 15px;
+}
+
+.digital-display-wrapper {
+  display: inline-block;
+  width: 100%;
+  background: #f9f9f9;
+}
+

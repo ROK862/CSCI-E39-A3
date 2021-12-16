@@ -1,0 +1,20 @@
+button.default-action-button {
+    padding: 10px;
+    min-width: 115px;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    border-radius: 0;
+    border: 2px solid white;
+    background: rgb(225,1,255);
+    background: linear-gradient(90deg, rgb(52 1 255) 0%, rgb(102 0 82) 0%, rgb(50 0 58) 100%);
+  }
+  
+  button.default-action-button:hover {
+    cursor:pointer;
+    color:black;
+    box-shadow: 0px 5px 15px 0px #00000070;
+    transition: 0.2s ease-in-out;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(209,209,209,1) 0%, rgba(232,232,232,1) 100%);
+  }

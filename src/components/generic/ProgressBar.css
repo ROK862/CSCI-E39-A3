@@ -1,0 +1,17 @@
+.ProgressBar {
+  font-size: 2rem;
+  padding: 0% 2% 2% 2%;
+  background: white;
+  margin: 120px auto 5% auto;
+  width: 35%;
+  min-height: 250px;
+  min-width:390px;
+  border-radius: 5px;
+  display: block;
+  box-shadow: 10px 30px 40px 5px #0000001a;
+  color: #000000;
+  text-align: center;
+  font-weight: bold;
+  border: 2px solid #f5f5f5;
+  border-bottom: 2px solid #1780ca;
+}

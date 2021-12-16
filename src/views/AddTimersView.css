@@ -1,0 +1,10 @@
+.multi-section-wrapper {
+    display: flex;
+    width: 50%;
+    margin: auto;
+    min-width: 610px;
+}
+.multi-section-wrapper h6 {
+    font-size: 15px;
+    text-align: center;
+}

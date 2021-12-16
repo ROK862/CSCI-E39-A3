@@ -1,0 +1,12 @@
+.list-2x2-item-xl {
+    width: 70%;
+    display: inline-flex;
+}
+.list-2x2-item-xs {
+    width: 10%;
+    display: inline-flex;
+}
+.list-2x2-item-xs button.default-anchor-button {
+    width: 100%;
+    min-width: 40px;
+}

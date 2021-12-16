@@ -1,0 +1,53 @@
+.generic-container {
+    font-size: 2rem;
+    padding: 0% 2% 2% 2%;
+    background: white;
+    margin: 120px auto 5% auto;
+    width: 35%;
+    min-height: 250px;
+    min-width:390px;
+    border-radius: 5px;
+    display: block;
+    box-shadow: 10px 30px 40px 5px #0000001a;
+    color: #000000;
+    text-align: center;
+    font-weight: bold;
+    border: 2px solid #f5f5f5;
+    border-bottom: 2px solid #1780ca;
+}
+.size-xl.generic-container {
+    display: flex;
+    width: 65%;
+}
+.size-sm.generic-container {
+    display: flex;
+    width: 25%;
+    min-width: 150px;
+}
+.size-sm.generic-container .overlay.progress-0 {
+    width: 100%;
+}
+.size-sm.generic-container .overlay.progress-0 .workout-header-wrapper {
+    border-bottom: 1px solid #0085c5;
+    padding: 0;
+    height: 30px;
+}
+.size-sm.generic-container .overlay.progress-0 .workout-queue-wrapper {
+    border-bottom: 1px solid #0085c5;
+    padding: 0;
+    height: 60%;
+    max-height: 450px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.size-sm.generic-container .overlay.progress-0 .workout-queue-wrapper pre {
+    font-size: 12px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    padding: 5px;
+    background: #ffffff;
+    color: #878787;
+    font-family: inherit;
+    font-weight: 500;
+}

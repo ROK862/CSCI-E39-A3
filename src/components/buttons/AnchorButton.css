@@ -1,0 +1,49 @@
+  button.default-anchor-button {
+    padding: 12px;
+    min-width: 100px;
+    color: #707070;
+    font-weight: bold;
+    font-size: 10px;
+    border-radius: 2px;
+    border: none;
+    border-bottom: 2px solid #d9d9d9;
+    background: #ffffff;
+  }
+  
+  button.default-anchor-button.Selected {
+    border-bottom: 2px solid #0073c5;
+  }
+  
+  button.default-anchor-button:hover {
+    cursor: pointer;
+    color: black;
+    box-shadow: 0px 5px 15px 0px #0000002b;
+    transition: 0.2s ease-in-out;
+    background: rgb(226 226 226);
+    background: linear-gradient(rgba(2,0,36,1) 0%, rgb(255 255 255) 0%, rgb(226 226 226) 100%);
+  }
+  
+  button.default-anchor-button.Special {
+    background: #0085c5;
+    color: white;
+  }
+
+  button.default-anchor-button.Action {
+    background: #ff8920;
+    color: white;
+    font-size: 15px;
+}
+
+  button.default-anchor-button.btn-size-sm {
+    min-width: 40px;
+  }
+  button.border-radious-cl {
+    font-size: 15px;
+    color: #2196f3;
+    border: 1px solid #b5deff;
+    border-radius: 100%;
+  }
+  
+  .timer-list button.default-anchor-button.btn-size-lg.border-radious-nm {
+    border-radius: 20px;
+}

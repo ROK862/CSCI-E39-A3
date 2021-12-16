@@ -1,0 +1,24 @@
+.digital-display-wrapper .option-input-wrapper {
+    width: 30%;
+    display: inline-block;
+}
+.Small .option-input-wrapper label {
+  font-size: 15px;
+  margin-right: 15px;
+}
+.option-input-wrapper, .Input-Wrapper {
+  background: #f9f9f9;
+  padding: 1%;
+  color: black;
+  text-align: center;
+  border-bottom: 2px solid #d9d9d9;
+}
+.option-input-wrapper label, .Input-Wrapper label {
+  font-size: 15px;
+}
+select.default-selected-element {
+    padding: 5px;
+    background: #ffffff;
+    border: none;
+    font-size: 18px;
+  }

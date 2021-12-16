@@ -1,0 +1,45 @@
+.timer-queue-item-xl {
+    display: flex;
+    width: 100%;
+    padding: 15px;
+    background: #2196f3;
+    margin-bottom: 15px;
+    border-radius: 30px;
+}
+
+.timer-queue-item-xl .sections-1x3-xl {
+    width: 5%;
+    display: inline-flex;
+}
+
+.timer-queue-item-xl .sections-2x3-xl {
+    width: 80%;
+    display: inline-flex;
+}
+
+.timer-queue-item-xl .sections-3x3-xl {
+    width: 10%;
+    display: inline-flex;
+}
+
+.sections-2x3-xl.standard-text {
+    font-size: 15px;
+    color: #ffffff;
+    padding: 10px 10px 10px 40px;
+}
+
+.timer-queue-list-xl {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    max-height: 350px;
+}
+
+.timer-queue-headers-xl p {
+    font-size: 16px;
+    color: black;
+    font-weight: 500;
+}
+
+.timer-queue-headers-xl h6 {
+    margin: 15px 0 0 0;
+}

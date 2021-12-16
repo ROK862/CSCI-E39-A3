@@ -1,0 +1,10 @@
+.timer-subtitle-wrapper {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    font-size: 15px;
+    padding: 50px;
+    font-weight: 400;
+    padding-top: 15px;
+}
