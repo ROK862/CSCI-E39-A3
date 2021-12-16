@@ -2,7 +2,7 @@
   "name": "assignment-3",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://rok862.github.io/CSCI-E39-A3/",
   "dependencies": {
     "firebase": "^9.1.3",
     "framer": "^2.0.0-beta.13",
